@@ -1,3 +1,23 @@
+# Aplikasi Psikotes Online
+##### _Aplikasi untuk melakukan psikotes kandidat secara online_
+
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+
+
+## Features Aplikasi Sparepart
+
+- Login Role User (HRD, Kandidat)
+- Pembuatan Soal Perkategori
+- Master Kandidat (Kandidat login hanya bisa didaftarkan oleh HRD)
+- Kandidat menjawab soal berdurasi dan penilaian otomatis oleh sistem
+- HRD mendapatkan rekomendasi kelulusan otomatis oleh sistem
+  
+## Tech
+
+Aplikasi ini dibangun menggunakan Laravel 9 +  Laravel Auth UI Bootstrap + AdminLTE
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
